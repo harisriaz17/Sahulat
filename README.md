@@ -5,4 +5,4 @@ An application which provides detail about services available in a specific loca
 Providers could add data about their services and people could rate them and search according to the ratings
 
 # Project Demo 
-![welcome screen](README-assets/snapshot-1.jpg?raw=true "Title")
+![welcome screen](README-assets/snapshot-1.jpg)
