@@ -6,5 +6,5 @@
 Providers could add data about their services and people could rate them and search according to the ratings.
 
 ## Project Demo 
-![welcome screen](README-assets/snapshot-1.jpg?raw=true "Title")
+![welcome screen](README-assets/snapshot-1.JPG)
 ![services search filters](README-assets/snapshot-2.jpg?raw=true "Title")
