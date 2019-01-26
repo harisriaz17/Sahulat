@@ -36,19 +36,19 @@ User Profile
         <td class="success">{{Form::label('address', 'Address', ['class' => 'awesome'])}}
         </td>
         <td>
-          {{Form::text('address', $person->address)}}
+          {{Form::text($person !== null ? $person->address : null)}}
         </td>
         <td class="success">{{Form::label('city', 'City', ['class' => 'awesome'])}}
         </td>
         <td>
-          {{Form::text('city', $person->city)}}
+          {{Form::text($person !== null ? $person->city : null)}}
         </td>
       </tr>
       <tr>
         <td class="success">{{Form::label('country', 'Country', ['class' => 'awesome'])}}
         </td>
         <td>
-          {{Form::text('country', $person->country)}}
+          {{Form::text($person !== null ? $person->country : null)}}
         </td>
         <td class="success">{{Form::label('newpassword', 'New Password', ['class' => 'awesome'])}}
         </td>
