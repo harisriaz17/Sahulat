@@ -14,6 +14,7 @@ class Provider extends Migration
     public function up()
     {
       Schema::create('providers', function (Blueprint $table) {
+          $table->engine = 'InnoDB';
           $table->integer('user_id');
           $table->increments('id')->index();
       });

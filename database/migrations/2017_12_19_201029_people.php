@@ -14,6 +14,7 @@ class People extends Migration
     public function up()
     {
       Schema::create('peoples', function (Blueprint $table) {
+          $table->engine = 'InnoDB';
           $table->integer('user_id');
           $table->increments('id')->index();
           $table->string('address')->nullable();
