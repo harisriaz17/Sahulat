@@ -21,8 +21,8 @@ Providers could add data about their services and people could rate them and sea
 ![services list](README-assets/snapshot-5.JPG)
 
 ## More
-![services list](README-assets/snapshot6.jpg)
+![services list](README-assets/snapshot-6.jpg)
 
 ## More
-![services list](README-assets/snapshot-7.jpg)
+![services list](README-assets/snapshot-7.JPG)
 
