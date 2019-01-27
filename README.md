@@ -7,4 +7,9 @@ Providers could add data about their services and people could rate them and sea
 
 ## Project Demo 
 ![welcome screen](README-assets/snapshot-1.JPG)
+
+## More
 ![services search filters](README-assets/snapshot-2.jpg)
+
+## More
+![services list](README-assets/snapshot-3.jpg)
